@@ -20,6 +20,29 @@ The Teacher management system allows authorized members to access the record of 
 This Project is done by Tadesse Ayele
 And This Author done diferent other related projects
 
+Technical Detail of Me
+
+I am looking forward to join a progressive organization. I am Strong team
+builder. I have high level of personal morals and integrity. I am Goal oriented,selfmotivated and committed to the successful outcome of the project. I am willing to
+work hard and have a great desire to learn
+
+Since Feb 2015, have 7 years and 8 months years of extensive experience in the
+administration of Systems and Programmer as software developer .
+ Good knowledge of Governmental ERP System Experience with staff training
+in the use of information systems.
+ An experienced team lead and team player with excellent communication and
+interpersonal skills who has the ability to work independently under pressure.
+ Currently working as Senior Software Engineer at Ministry Of Justice
+ Knowledge of scripting languages (PHP, Python ,java,ASP.net and frame works like
+angularJs, React, codeigniter and liferfay)
+ Excellent experience in word press CMS I have done 2 more web portals using it.
+ I am good in Java, PHP, html and CSS.
+ Prior ICT experience in a setup with environmental and geographical constraints.
+ Willing to take ownership of issue analysis and resolution efforts and commitment to
+get results
+ Hands on Experience and knowledge in hardware, LAN/WLAN
+
+
 Credential for admin panel :
 
 Username: admin
