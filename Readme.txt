@@ -15,6 +15,10 @@ Instalklation Steps:
  then search localhost/trms
  and you will get trms demo
 
+The Teacher management system allows authorized members to access the record of academically registered Teachers. It can be used in various educational institutes across the Admas University  College Addis Ababa  and simplifies the working of the institute.
+
+This Project is done by Tadesse Ayele
+And This Author done diferent other related projects
 
 Credential for admin panel :
 
